@@ -1,9 +1,7 @@
 This is the beginning of the story.
 Author: BoyangXu
 Date: 9/28/2020 
-Story: This application is to design an ID checker which helps people like police to identify the status of the person.This application will display the age,city of the resident,gender with the id. 
-For part of the storing the data, we use the hashtable to efficienttly store banch of information based on specific ID. We also use the method of chainning to resolve the collision problem on the hashtable. 
-
+Story: There is a city called Dream city. In this city, everyone who lives there has the memory from his or her past life. However, this memory just kept for a short period. For keeping for these period, an inventor called Jason who invented a machine to help people to remember this memory. However, after a period, people immediately forgot about anything in a night. After his day, nobody can find this inventor. On this time, there is a man called Frank came to this village. 
 
 
 
