@@ -1,6 +1,8 @@
 This is the beginning of the story.
 Author: BoyangXu
 Date: 9/28/2020 
+Story: This application is to design an ID checker which helps people like police to identify the status of the person.This application will display the age,city of the resident,gender with the id. 
+For part of the storing the data, we use the hashtable to efficienttly store banch of information based on specific ID. We also use the method of chainning to resolve the collision problem on the hashtable. 
 
 
 
