@@ -5,4 +5,4 @@ Story: There is a city called Dream city. In this city, everyone who lives there
 
 Middle by Weihao Xu: Frank was just a normal man, who did not have the memory of his past life. He came to this village because of the fame of Dream City. He wanted to know why people in this village lost their whole memory in one night, and he believed that it should start with the myth of Jason. Frank began to find any clues that can be related to the inventor by examining Jason's labotory, house, and journals.
 
-
+End by Youhe Gao: Frank soon found the machine that Jason invented to store people's memories. The machine is broken beyond repairs. Jason's journal indicates that he left the town in dispair, after failing to repait the machine. Frank also found the the hard drive that jason used to store everyone's memory in txt files. Frank remembered learning about hash tables in college and used the names of people of Dream City as keys to organize the memories. The next day, everyone lined up outside Jason's old lab to get their memories back. Frank asked for their names, hashed the names, and used to hashcode to retrive their memories. Everyone lived happily ever after
